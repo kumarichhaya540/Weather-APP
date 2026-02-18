@@ -19,5 +19,5 @@ A responsive weather application built using HTML, CSS, and JavaScript.
 - OpenWeather API
 
 ## Live Demo
-👉 https://yourusername.github.io/weather-app/
+👉 https://kumarichhaya540.github.io/Weather-APP/
 
